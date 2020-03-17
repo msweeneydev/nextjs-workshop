@@ -1,0 +1,14 @@
+{
+  "name": "@zeit/mdx-deck-theme",
+  "version": "0.2.1",
+  "description": "ZEIT theme for MDX Deck",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeit/mdx-deck-theme"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "mdx-deck": "^3.0.13"
+  }
+}
