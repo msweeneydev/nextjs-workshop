@@ -8,7 +8,12 @@
     "url": "https://github.com/zeit/mdx-deck-theme"
   },
   "license": "ISC",
-  "peerDependencies": {
-    "mdx-deck": "^3.0.13"
+  "devDependencies": {
+    "@zeit/mdx-deck-theme": "^0.1.0",
+    "mdx-deck": "^2.2.1"
+  },
+  "scripts": {
+    "dev": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
   }
 }
