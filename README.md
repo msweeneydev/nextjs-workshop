@@ -1,1 +1,1 @@
-# nextjs-workshop 2
+# nextjs-workshop
